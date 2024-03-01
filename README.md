@@ -1,4 +1,6 @@
-### Hi there 👋
+### Self Introduction
+
+Hello everyone, I am Hsu Po Hsiang, a NTHU EE student.
 
 <!--
 **treeleaves30760/treeleaves30760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
