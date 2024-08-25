@@ -1,10 +1,10 @@
 ### Self Introduction
 
+![](https://komarev.com/ghpvc/?username=treeleaves30760)
+
 Hello everyone, I am Hsu Po Hsiang, an NTHU EE student.
 
 <a href="https://gitroll.io/profile/uHXmZ3niIgBQ52wWUW5jn37EVeZV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHXmZ3niIgBQ52wWUW5jn37EVeZV2" alt="GitRoll Profile Badge"/></a>
-
-![](https://komarev.com/ghpvc/?username=treeleaves30760)
 
 [![treeleaves30760's GitHub stats](https://github-readme-stats.vercel.app/api?username=treeleaves30760)](https://github.com/anuraghazra/github-readme-stats)
 
