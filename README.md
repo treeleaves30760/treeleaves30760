@@ -4,9 +4,9 @@
 
 ## Self Introduction
 
-Hello everyone, I am a student from NTHU EE.
-Currently working on LLM, VLM, and my special project [PyMD](https://github.com/treeleaves30760/PyMD), a Python-powered markdown renderer.
-You can reach me with email: [treeleaves30760](treeleaves30760@gmail.com)
+Hello everyone, I am a student from NTHU EE. <br>
+Currently working on LLM, VLM, and my special project [PyMD](https://github.com/treeleaves30760/PyMD), a Python-powered markdown renderer.<br>
+You can reach me with email: [treeleaves30760](treeleaves30760@gmail.com)<br>
 
 ---
 
